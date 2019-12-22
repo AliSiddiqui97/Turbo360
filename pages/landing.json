@@ -1,0 +1,35 @@
+{
+    "hero": {
+        "greeting":"Welcome",
+        "intro":"Hi I'am AZ. I suck at writing but i am great at snapping",
+        "img_profile":"https://lh3.googleusercontent.com/zfSm2--8qeuarb6EvGjDxJU1Ocdgp-7mXnKEmyhEkemKHi9RQBSjOZ_laaSLFdJtGiF5dDgfitRaDMLJKsHbPhx8Dtg",
+        "img_background": "https://lh3.googleusercontent.com/gfzXeUtx6wV7_tmCSqaxvEI9bMkgpazn6GeNn8EveARCEs7BtkU_YtxqtxZc0mK9e1jVfJatgkORoAFADGz0mocI"
+        
+    },
+    "contact":{
+        "header":"Book Us",
+        "sub-header":"If you want to hire us feel free to contact!! "
+    },
+    
+    "projects":{
+        "header":"My Gallery",
+        "subheader":"Take a look! "
+        
+    },
+
+    "servicelist":[         
+        {
+        "name": "Potrait",
+        "image":"https://lh3.googleusercontent.com/gZw2gibFTxpbeh3Ib9NDIZomVup18pX27yBJb7PVvLT-ickH9EsbFjcs0VhQQYJ_LT9mUUnJjRarz_CaZDxoRsP7",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum." },
+        {
+        "name": "Abstract",
+        "image":"https://lh3.googleusercontent.com/t4qKJLlVGyrQDwvUH6R9fDE9_J3gYgwL7qEoogrCuFLGn2Kkv0XEsj4-_bPXiYJP0JMZ6cuvHueX2M79vEJTjFFfASY",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum." },
+        {    
+        "name": "Landscape",
+        "image":"https://lh3.googleusercontent.com/t4qKJLlVGyrQDwvUH6R9fDE9_J3gYgwL7qEoogrCuFLGn2Kkv0XEsj4-_bPXiYJP0JMZ6cuvHueX2M79vEJTjFFfASY",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum." }
+        ]
+    
+}

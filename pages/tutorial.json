@@ -1,0 +1,10 @@
+{
+    "greeting" : "Hello! Welcome to my site!",
+    "intro" : "This is intro!",
+    "languages" : [
+        {"name":"javascript", "years": 5 },
+        {"name":"python", "years": 3 },
+        {"name":"swift", "years": 2 },
+        {"name":"kotlin", "years": 1 } 
+    ]
+}
